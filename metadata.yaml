@@ -1,0 +1,27 @@
+_repo: Le-C-t--de-Guermantes---Deuxi-me-partie_12999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Proust, Marcel
+    birthdate: 1871
+    deathdate: 1922
+    gutenberg_agent_id: '987'
+    url: http://www.gutenberg.org/2009/agents/987
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Proust
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12999'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- GITenberg
+title: Le Côté de Guermantes - Deuxième partie
+url: http://www.gutenberg.org/ebooks/12999
