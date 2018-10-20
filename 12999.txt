@@ -11,6 +11,7 @@ Title: Le Cote de Guermantes
 Author: Marcel Proust
 
 Release Date: July 23, 2004 [EBook #12999]
+Last Updated: November 20, 2017
 
 Language: French
 
@@ -1573,7 +1574,7 @@ une tasse.
 
 --Parlez-lui fort, dit-elle a Bloch, il est un peu sourd, mais il vous
 dira tout ce que vous voudrez, il a tres bien connu Bismarck, Cavour.
-N'est-pas, Monsieur, dit-elle avec force, vous avez bien connu Bismarck?
+N'est-ce pas, Monsieur, dit-elle avec force, vous avez bien connu Bismarck?
 
 --Avez-vous quelque chose sur le chantier? me demanda M. de Norpois avec
 un signe d'intelligence en me serrant la main cordialement. J'en
@@ -1858,7 +1859,7 @@ question passa inapercue.
 --Ah! vous connaissez les _Sept Princesses_? repondit la duchesse a M.
 d'Argencourt. Tous mes compliments! Moi je n'en connais qu'une, mais
 cela m'a ote la curiosite de faire la connaissance des six autres. Si
-elles sont toutes pareille a celle que j'ai vue!
+elles sont toutes pareilles a celle que j'ai vue!
 
 "Quelle buse!" pensais-je, irrite de l'accueil glacial qu'elle m'avait
 fait. Je trouvais une sorte d'apre satisfaction a constater sa complete
@@ -2017,7 +2018,7 @@ cependant avait dit croire a l'innocence de Dreyfus) etait ardemment
 antidreyfusard, l'amabilite de l'Ambassadeur, l'air qu'il avait de
 donner raison a son interlocuteur, de ne pas douter qu'ils fussent du
 meme avis, de se liguer en complicite avec lui pour accabler le
-gouvernement, nattaient la vanite de Bloch et excitaient sa curiosite.
+gouvernement, flattaient la vanite de Bloch et excitaient sa curiosite.
 Quels etaient les points importants que M. de Norpois ne specifiait
 point, mais sur lesquels il semblait implicitement admettre que Bloch et
 lui etaient d'accord, quelle opinion avait-il donc de l'affaire, qui put
@@ -2216,7 +2217,7 @@ pensantes, qu'elles n'achetent rien aux marchands juifs ou qu'elles ont
 ou Dubois, que nous n'aurions jamais connues, nous soient imposees par
 Marie-Aynard ou par Victurnienne. Je suis allee chez Marie-Aynard
 avant-hier. C'etait charmant autrefois. Maintenant on y trouve toutes
-les personnes qu'on a passe sa vie a eviter, sous pretexte qu'elle sont
+les personnes qu'on a passe sa vie a eviter, sous pretexte qu'elles sont
 contre Dreyfus, et d'autres dont on n'a pas idee qui c'est.
 
 --Non, c'est la femme du ministre de la Guerre. C'est du moins un bruit
@@ -3335,7 +3336,7 @@ reunions ou il se trouvait, et dedaigneux avec les hommes, courtise par
 les femmes, il avait vite fait d'aller faire corps avec la plus
 elegante, de la toilette de laquelle il se sentait empanache. La
 redingote ou le frac du baron le faisait ressembler a ces portraits
-remis par un grand coloriste d'une homme en noir, mais qui a pres de
+remis par un grand coloriste d'un homme en noir, mais qui a pres de
 lui, sur une chaise, un manteau eclatant qu'il va revetir pour quelque
 bal costume. Ce tete-a-tete, generalement avec quelque Altesse,
 procurait a M. de Charlus de ces distinctions qu'il aimait. Il avait,
@@ -3675,7 +3676,7 @@ repondait par une dignite glacee, ou par une platitude qui
 l'encourageait a redoubler ses coups, mais cedaient souvent a une chaude
 sympathie. "Quant a gentil, continua Saint-Loup, tu pretends que je l'ai
 ete pour toi, mais je n'ai pas ete gentil du tout, ma tante dit que
-c'est toi qui la fuis, que tu ne lui dis pas un moi. Elle se demande si
+c'est toi qui la fuis, que tu ne lui dis pas un mot. Elle se demande si
 tu n'as pas quelque chose contre elle."
 
 Heureusement pour moi, si j'avais ete dupe de ces paroles, notre
@@ -4199,7 +4200,7 @@ ami avait trouve Mme Sazerat charmante et etait particulierement flatte
 de l'antisemitisme de cette dame qu'il trouvait une preuve de la
 sincerite de sa foi et de la verite de ses opinions dreyfusardes, et qui
 donnait aussi du prix a la visite qu'elle l'avait autorisee a lui
-faire. Il n'avait meme pas ete blesse qu'elle eut dit etourdiraient
+faire. Il n'avait meme pas ete blesse qu'elle eut dit etourdiment
 devant lui: "M. Drumont a la pretention de mettre les revisionnistes
 dans le meme sac que les protestants et les juifs. C'est charmant cette
 promiscuite!" "Bernard, avait-il dit avec orgueil, en rentrant, a M.
@@ -4581,7 +4582,7 @@ pas" etaient exasperants en pareil cas. On avait envie de lui repondre:
 a la chose dont il s'agit, comment pouvez-vous meme dire que c'est
 possible ou pas, vous n'en savez rien? En tout cas maintenant vous ne
 pouvez pas dire que vous ne savez pas ce que Charcot a dit a du Boulbon,
-etc., vous le savez puisque vous nous l'avons dit, et vos "peut-etre",
+etc., vous le savez puisque nous vous l'avons dit, et vos "peut-etre",
 vos "c'est possible" ne sont pas de mise puisque c'est certain."
 
 Malgre cette competence plus particuliere en matiere cerebrale et
@@ -4885,7 +4886,7 @@ rustique edifie au milieu des jardins. Au controle, comme dans ces
 cirques forains ou le clown, pret a entrer en scene et tout enfarine,
 recoit lui-meme a la porte le prix des places, la "marquise", percevant
 les entrees, etait toujours la avec son museau enorme et irregulier
-enduit de platre grossier, et son petit bonnet de rieurs rouges et de
+enduit de platre grossier, et son petit bonnet de fleurs rouges et de
 dentelle noire surmontant sa perruque rousse. Mais je ne crois pas
 qu'elle me reconnut. Le garde, delaissant la surveillance des verdures,
 a la couleur desquelles etait assorti son uniforme, causait, assis a
@@ -5641,7 +5642,7 @@ venu voir une de ses tantes, la princesse de Luxembourg, alors qu'il
 n'etait encore que comte de Nassau. Il avait epouse quelques mois apres
 la ravissante fille d'une autre princesse de Luxembourg, excessivement
 riche parce qu'elle etait la fille unique d'un prince a qui appartenait
-une immense affaire de de farines. Sur quoi le grand-duc de Luxembourg,
+une immense affaire de farines. Sur quoi le grand-duc de Luxembourg,
 qui n'avait pas d'enfants et qui adorait son neveu Nassau, avait fait
 approuver par la Chambre qu'il fut declare grand-duc heritier. Comme
 dans tous les mariages de ce genre, l'origine de la fortune est
@@ -5681,7 +5682,7 @@ ces phenomenes. Francoise avait mille fois repete au jardinier de
 Combray que la guerre est le plus insense des crimes et que rien ne vaut
 sinon vivre. Or, quand eclata la guerre russo-japonaise, elle etait
 genee, vis-a-vis du czar, que nous ne nous fussions pas mis en guerre
-pour aider "les pauvres Russes" "puisqu'on est alliance", disait-elle.
+pour aider "les pauvres Russes" "puisqu'on est alliancé", disait-elle.
 Elle ne trouvait pas cela delicat envers Nicolas II qui avait toujours
 eu "de si bonnes paroles pour nous"; c'etait un effet du meme code qui
 l'eut empechee de refuser a Jupien un petit verre, dont elle savait

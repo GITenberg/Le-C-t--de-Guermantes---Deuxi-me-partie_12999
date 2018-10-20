@@ -11,6 +11,7 @@ Title: Le Côté de Guermantes
 Author: Marcel Proust
 
 Release Date: July 23, 2004 [EBook #12999]
+Last Updated: November 20, 2017
 
 Language: French
 
@@ -1573,7 +1574,7 @@ une tasse.
 
 --Parlez-lui fort, dit-elle à Bloch, il est un peu sourd, mais il vous
 dira tout ce que vous voudrez, il a très bien connu Bismarck, Cavour.
-N'est-pas, Monsieur, dit-elle avec force, vous avez bien connu Bismarck?
+N'est-ce pas, Monsieur, dit-elle avec force, vous avez bien connu Bismarck?
 
 --Avez-vous quelque chose sur le chantier? me demanda M. de Norpois avec
 un signe d'intelligence en me serrant la main cordialement. J'en
@@ -1681,7 +1682,7 @@ malgré celui qui parle, et chez qui l'irrésistible conviction emporte
 les efforts bégayants qu'il faisait pour se taire: «Non, non, me dit-il
 avec émotion, il ne _faut pas_ que votre père se présente. Il ne le faut
 pas dans son intérêt, pour lui-même, par respect pour sa valeur qui est
-grande et qu'il compromettrait dans une pareille aventure. Il vaut mieux
+grande et qu'il compromettrait dans une pareilles aventure. Il vaut mieux
 que cela. Fût-il nommé, il aurait tout à perdre et rien à gagner. Dieu
 merci, il n'est pas orateur. Et c'est la seule chose qui compte auprès
 de mes chers collègues, quand même ce qu'on dit ne serait que
@@ -1858,7 +1859,7 @@ question passa inaperçue.
 --Ah! vous connaissez les _Sept Princesses_? répondit la duchesse à M.
 d'Argencourt. Tous mes compliments! Moi je n'en connais qu'une, mais
 cela m'a ôté la curiosité de faire la connaissance des six autres. Si
-elles sont toutes pareille à celle que j'ai vue!
+elles sont toutes pareilles à celle que j'ai vue!
 
 «Quelle buse!» pensais-je, irrité de l'accueil glacial qu'elle m'avait
 fait. Je trouvais une sorte d'âpre satisfaction à constater sa complète
@@ -1875,7 +1876,7 @@ sincérité, comme avec un étranger.
 se tordre de rire. On ne s'en est pas fait faute, trop même, car la
 petite personne n'a pas aimé cela, et dans le fond Robert m'en a
 toujours voulu. Ce que je ne regrette pas du reste, car si cela avait
-bien tourné, là demoiselle serait peut-être revenue et je me demande
+bien tourné, la demoiselle serait peut-être revenue et je me demande
 jusqu'à quel point cela aurait charmé Marie-Aynard.
 
 On appelait ainsi dans la famille la mère de Robert, Mme de Marsantes,
@@ -2017,7 +2018,7 @@ cependant avait dit croire à l'innocence de Dreyfus) était ardemment
 antidreyfusard, l'amabilité de l'Ambassadeur, l'air qu'il avait de
 donner raison à son interlocuteur, de ne pas douter qu'ils fussent du
 même avis, de se liguer en complicité avec lui pour accabler le
-gouvernement, nattaient la vanité de Bloch et excitaient sa curiosité.
+gouvernement, flattaient la vanité de Bloch et excitaient sa curiosité.
 Quels étaient les points importants que M. de Norpois ne spécifiait
 point, mais sur lesquels il semblait implicitement admettre que Bloch et
 lui étaient d'accord, quelle opinion avait-il donc de l'affaire, qui pût
@@ -2216,7 +2217,7 @@ pensantes, qu'elles n'achètent rien aux marchands juifs ou qu'elles ont
 ou Dubois, que nous n'aurions jamais connues, nous soient imposées par
 Marie-Aynard ou par Victurnienne. Je suis allée chez Marie-Aynard
 avant-hier. C'était charmant autrefois. Maintenant on y trouve toutes
-les personnes qu'on a passé sa vie à éviter, sous prétexte qu'elle sont
+les personnes qu'on a passé sa vie à éviter, sous prétexte qu'elles sont
 contre Dreyfus, et d'autres dont on n'a pas idée qui c'est.
 
 --Non, c'est la femme du ministre de la Guerre. C'est du moins un bruit
@@ -2570,7 +2571,7 @@ je n'entendis pas mais qui devait avoir trait à la religion de Bloch,
 car il passa à ce moment dans la figure de la duchesse cette expression
 à laquelle la peur qu'on a d'être remarqué par la personne dont on parle
 donne quelque chose d'hésitant et de faux et où se mêle la gaîté
-curieuse et malveillante qu'inspiré un groupement humain auquel nous
+curieuse et malveillante qu'inspire un groupement humain auquel nous
 nous sentons radicalement étrangers. Pour se rattraper Bloch se tourna
 vers le duc de Châtellerault: «Vous, monsieur, qui êtes français, vous
 savez certainement qu'on est dreyfusard à l'étranger, quoiqu'on prétende
@@ -2665,7 +2666,7 @@ avoir des bontés pour son neveu, je ne peux pas pousser les sentiments
 de famille....
 
 La duchesse s'arrêta net, car une dame entrait qui était la vicomtesse
-de Marsantes, là mère de Robert. Mme de Marsantes était considérée dans
+de Marsantes, la mère de Robert. Mme de Marsantes était considérée dans
 le faubourg Saint-Germain comme un être supérieur, d'une bonté, d'une
 résignation angéliques. On me l'avait dit et je n'avais pas de raison
 particulière pour en être surpris, ne sachant pas à ce moment-là qu'elle
@@ -3335,7 +3336,7 @@ réunions où il se trouvait, et dédaigneux avec les hommes, courtisé par
 les femmes, il avait vite fait d'aller faire corps avec la plus
 élégante, de la toilette de laquelle il se sentait empanaché. La
 redingote ou le frac du baron le faisait ressembler à ces portraits
-remis par un grand coloriste d'une homme en noir, mais qui a près de
+remis par un grand coloriste d'un homme en noir, mais qui a près de
 lui, sur une chaise, un manteau éclatant qu'il va revêtir pour quelque
 bal costumé. Ce tête-à-tête, généralement avec quelque Altesse,
 procurait à M. de Charlus de ces distinctions qu'il aimait. Il avait,
@@ -3675,7 +3676,7 @@ répondait par une dignité glacée, ou par une platitude qui
 l'encourageait à redoubler ses coups, mais cédaient souvent à une chaude
 sympathie. «Quant à gentil, continua Saint-Loup, tu prétends que je l'ai
 été pour toi, mais je n'ai pas été gentil du tout, ma tante dit que
-c'est toi qui la fuis, que tu ne lui dis pas un moi. Elle se demande si
+c'est toi qui la fuis, que tu ne lui dis pas un mot. Elle se demande si
 tu n'as pas quelque chose contre elle.»
 
 Heureusement pour moi, si j'avais été dupe de ces paroles, notre
@@ -4199,7 +4200,7 @@ ami avait trouvé Mme Sazerat charmante et était particulièrement flatté
 de l'antisémitisme de cette dame qu'il trouvait une preuve de la
 sincérité de sa foi et de la vérité de ses opinions dreyfusardes, et qui
 donnait aussi du prix à la visite qu'elle l'avait autorisée à lui
-faire. Il n'avait même pas été blessé qu'elle eût dit étourdiraient
+faire. Il n'avait même pas été blessé qu'elle eût dit étourdiment
 devant lui: «M. Drumont a la prétention de mettre les révisionnistes
 dans le même sac que les protestants et les juifs. C'est charmant cette
 promiscuité!» «Bernard, avait-il dit avec orgueil, en rentrant, à M.
@@ -4581,7 +4582,7 @@ pas» étaient exaspérants en pareil cas. On avait envie de lui répondre:
 à la chose dont il s'agit, comment pouvez-vous même dire que c'est
 possible ou pas, vous n'en savez rien? En tout cas maintenant vous ne
 pouvez pas dire que vous ne savez pas ce que Charcot a dit à du Boulbon,
-etc., vous le savez puisque vous nous l'avons dit, et vos «peut-être»,
+etc., vous le savez puisque nous vous l'avons dit, et vos «peut-être»,
 vos «c'est possible» ne sont pas de mise puisque c'est certain.»
 
 Malgré cette compétence plus particulière en matière cérébrale et
@@ -4885,7 +4886,7 @@ rustique édifié au milieu des jardins. Au contrôle, comme dans ces
 cirques forains où le clown, prêt à entrer en scène et tout enfariné,
 reçoit lui-même à la porte le prix des places, la «marquise», percevant
 les entrées, était toujours là avec son museau énorme et irrégulier
-enduit de plâtre grossier, et son petit bonnet de rieurs rouges et de
+enduit de plâtre grossier, et son petit bonnet de fleurs rouges et de
 dentelle noire surmontant sa perruque rousse. Mais je ne crois pas
 qu'elle me reconnut. Le garde, délaissant la surveillance des verdures,
 à la couleur desquelles était assorti son uniforme, causait, assis à
@@ -5641,7 +5642,7 @@ venu voir une de ses tantes, la princesse de Luxembourg, alors qu'il
 n'était encore que comte de Nassau. Il avait épousé quelques mois après
 la ravissante fille d'une autre princesse de Luxembourg, excessivement
 riche parce qu'elle était la fille unique d'un prince à qui appartenait
-une immense affaire de de farines. Sur quoi le grand-duc de Luxembourg,
+une immense affaire de farines. Sur quoi le grand-duc de Luxembourg,
 qui n'avait pas d'enfants et qui adorait son neveu Nassau, avait fait
 approuver par la Chambre qu'il fût déclaré grand-duc héritier. Comme
 dans tous les mariages de ce genre, l'origine de la fortune est
